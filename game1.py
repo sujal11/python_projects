@@ -6,9 +6,9 @@ def game1(computer,you):
    elif(computer=='w'):
        if you=='s':
            return True  
-       elif you=='g':
+       elif you=='g':  
            return False
-   elif(computer=='g'):
+   elif(computer=='g'):   
        if you=='w':
            return True
        elif you=='s':
