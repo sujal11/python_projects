@@ -12,7 +12,7 @@ def game1(computer,you):
        if you=='w':
            return True
        elif you=='s':
-           return False
+           return False  
    elif(computer=='s'):
        if you=='g':
            return True
