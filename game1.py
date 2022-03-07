@@ -3,7 +3,7 @@ import random
 def game1(computer,you):
    if(computer==you):
        return None
-   elif(computer=='w'):
+   elif(computer=='w'):   
        if you=='s':
            return True  
        elif you=='g':  
