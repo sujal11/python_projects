@@ -14,7 +14,7 @@ def game1(computer,you):
        elif you=='s':
            return False      
    elif(computer=='s'):
-       if you=='g':         
+       if you=='g':            
            return True
        elif you=='w':
            return False
