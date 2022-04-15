@@ -9,7 +9,7 @@ def game1(computer,you):
        elif you=='S':
            return False
    elif(computer=='P'):
-       if you=='S':
+       if you=='S':  
            return True
        elif you=='R':
            return False                             
