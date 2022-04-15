@@ -8,7 +8,7 @@ def game1(computer,you):
            return True
        elif you=='S':
            return False
-   elif(computer=='P'):
+   elif(computer=='P'):  
        if you=='S':  
            return True   
        elif you=='R':
